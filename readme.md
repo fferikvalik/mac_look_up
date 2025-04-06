@@ -17,6 +17,6 @@ Secures API keys with AES-256-CBC encryption.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/mac-lookup-tool.git
-cd mac-lookup-tool
+git clone https://github.com/fferikvalik/mac_look_up.git
+cd mac_look_up
 gcc main.c -o mac_lookup -lcurl -lssl -lcrypto
