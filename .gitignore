@@ -1,0 +1,52 @@
+# Ignore executables and binaries
+*.exe
+*.exec
+*.dll
+*.so
+*.dylib
+*.bin
+*.out
+*.app
+
+# Temporary files and caches
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.user
+*.cache
+
+# Logs and dumps
+*.log
+*.pid
+*.dump
+
+# Dependency folders (if using package managers)
+/node_modules/
+/venv/
+/.env
+*.pyc
+__pycache__/
+
+# Build artifacts and folders
+/dist/
+/build/
+/out/
+/bin/
+/obj/
+*.o
+*.a
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+mac_look_up
+
+/mac_look_up
+apikey.enc
